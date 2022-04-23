@@ -1,0 +1,7 @@
+
+
+numpy
+matplotlib
+Pillow
+tensorflow==1.14
+
